@@ -279,7 +279,7 @@ export default function Chairman({ params }) {
               {chairmanMsg.cta.description}
             </p>
             <Link
-              href="/contact"
+              href={`/${locale}/contact`}
               className="inline-block px-8 py-3 bg-white text-red-600 font-semibold rounded-md hover:bg-gray-100 transition-colors duration-200"
             >
               {chairmanMsg.cta.button}

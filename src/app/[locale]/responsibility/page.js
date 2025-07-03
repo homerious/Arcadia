@@ -275,7 +275,7 @@ export default function Responsibility({ params }) {
               {responsibilityMsg.cta.description}
             </p>
             <Link
-              href="/contact"
+              href={`/${locale}/contact`}
               className="inline-block px-8 py-3 bg-green-600 text-white font-semibold rounded-md hover:bg-green-700 transition-colors duration-200"
             >
               {responsibilityMsg.cta.button}

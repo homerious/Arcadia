@@ -268,7 +268,7 @@ export default function About({ params }) {
               {aboutMsg.cta.description}
             </p>
             <Link
-              href="/contact"
+              href={`/${locale}/contact`}
               className="inline-block px-8 py-3 bg-red-600 text-white font-semibold rounded-md hover:bg-red-700 transition-colors duration-200"
             >
               {aboutMsg.cta.button}

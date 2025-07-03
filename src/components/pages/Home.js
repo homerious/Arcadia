@@ -279,7 +279,7 @@ export default function Home({ locale }) {
             {homeMsg.contact.description}
           </p>
           <Link
-            href="/contact"
+            href={`/${locale}/contact`}
             className="inline-block px-12 py-4 bg-red-600 text-white text-lg rounded-md hover:bg-red-700 transition-colors duration-200"
           >
             {homeMsg.contact.contactUs}
