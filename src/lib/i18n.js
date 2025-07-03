@@ -1,7 +1,10 @@
 // src/lib/i18n.js (更新版本)
 import { notFound } from 'next/navigation'
 
-export const locales = ['zh-TW', 'zh-CN', 'en', 'ja', 'ko']
+export const locales = ['zh-TW', 'zh-CN', 'en',
+  // 'ja',
+  // 'ko'
+]
 export const defaultLocale = 'zh-TW'
 
 export const localeNames = {
