@@ -239,7 +239,7 @@ export default function Home({ locale }) {
             <div className="overflow-hidden">
               <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
                 {conferenceImages.map((src, index) => (
-                  <div key={index} className="w-full min-w-full">
+                  <div key={index} className="w-full min-w-full" onClick={() => setCurrentIndex(index)}>
                     <Image
                       src={src}
                       alt={`Conference ${index + 1}`}
