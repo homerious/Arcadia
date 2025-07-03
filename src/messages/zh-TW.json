@@ -1,0 +1,476 @@
+{
+  "meta": {
+    "title": "奧愷基金管理集團",
+    "description": "奧愷基金管理集團是一家專注於亞洲最具增長潛力的投資機會，為客戶創造長期價值的財富管理公司。"
+  },
+  "header": {
+    "subtitle": "奧愷基金管理集團亞洲有限公司",
+    "memberLogin": "會員登入",
+    "mobileMenuToggle": "切换菜单",
+    "logoAlt": "奧愷基金管理集團",
+    "nav": {
+      "home": "首页",
+      "about": "关于我们",
+      "aboutCompany": "公司介绍",
+      "chairman": "董事长",
+      "compliance": "监管与合规",
+      "strategy": "投资策略",
+      "responsibility": "社会责任",
+      "contact": "联络我们"
+    }
+  },
+  "mobileMenu": {
+    "languageLabel": "語言選擇",
+    "copyright": "© 2024 奧愷基金管理集團亞洲有限公司",
+    "allRightsReserved": "版權所有"
+  },
+  "home": {
+    "hero": {
+      "titleZh": "奧識全球，愷啟未來",
+      "titleEn": "Global Insight, Harmonious Future",
+      "subtitle": "專注於亞洲最具增長潛力的投資機會，為客戶創造長期價值"
+    },
+    "activity": {
+      "title": "最新活動：2025 大中華私募投資高峰會"
+    },
+    "about": {
+      "title": "關於我們",
+      "learnMore": "了解更多"
+    },
+    "advantages": {
+      "items": {
+        "strategy": "一站式財富管理",
+        "strategyDesc": "我們擁有完整的投資策略體系，為客戶提供全方位的資產配置建議，以及專業的風險管理服務。",
+        "network": "專業團隊",
+        "networkDesc": "我們的團隊由來自國際投行、對沖基金及私募股權機構的資深專業人士組成，具備豐富的跨境投資經驗。",
+        "expertise": "品牌實力",
+        "expertiseDesc": "作為香港證監會持牌機構，我們始終堅持最高標準的合規性和透明度，贏得客戶的信任。"
+      }
+    },
+    "investment": {
+      "title": "投資策略",
+      "learnMore": "了解更多",
+      "areas": {
+        "ai": "人工智能",
+        "aiDesc": "我們重點投資於人工智能、機器學習等前沿科技領域，捕捉科技創新帶來的投資機遇。",
+        "manufacturing": "先進製造",
+        "manufacturingDesc": "專注於智能製造、工業4.0等領域的投資機會，助力傳統製造業轉型升級。",
+        "cleanEnergy": "清潔能源",
+        "cleanEnergyDesc": "投資於可再生能源、節能環保等綠色產業，推動可持續發展。",
+        "healthcare": "醫療健康",
+        "healthcareDesc": "關注生物醫藥、醫療器械、數字醫療等健康產業的投資機會。"
+      }
+    },
+    "esg": {
+      "title": "社會責任",
+      "description": "我們深信資產管理不僅是追求回報的過程，更是承擔社會責任的實踐。我們致力於將ESG理念融入投資決策，推動資本流向真正有益於社會和環境的方向。",
+      "learnMore": "了解更多",
+      "stats": {
+        "projects": "50+",
+        "projectsLabel": "ESG投資項目",
+        "impact": "100%",
+        "impactLabel": "ESG整合覆蓋率",
+        "commitment": "長期",
+        "commitmentLabel": "可持續發展承諾"
+      }
+    },
+    "contact": {
+      "title": "更多諮詢？請即聯絡我們",
+      "description": "我們的專業團隊隨時為您提供個性化的投資建議和服務。",
+      "contactUs": "聯絡我們"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "關於我們",
+      "subtitle": "專注於亞洲最具增長潛力的投資機會"
+    },
+    "company": {
+      "title": "公司簡介",
+      "name": "奧愷基金管理集團亞洲有限公司",
+      "description1": "是一家總部設於香港的持牌資產管理公司，已獲得香港證券及期貨事務監察委員會（SFC）授權，專注於為客戶提供機構級的投資解決方案，覆蓋亞洲最具增長潛力的領域，包括人工智能、先進製造、清潔能源與醫療健康等。"
+    },
+    "team": {
+      "title": "專業團隊",
+      "description1": "公司由一支資深團隊創辦，成員曾服務於全球領先的投行與資產管理機構，具備豐富的跨境投資與風險管理經驗。Arcadia 始終堅持長期價值導向，通過嚴謹的研究、高度紀律性的風控流程，以及高信念投資策略，為客戶創造持續回報。",
+      "expertise": "專業經驗"
+    },
+    "philosophy": {
+      "title": "投資領域",
+      "approach": "投資理念",
+      "description1": "始終堅持長期價值導向，通過嚴謹的研究、高度紀律性的風控流程，以及高信念投資策略，為客戶創造持續回報。"
+    },
+    "sectors": {
+      "ai": "人工智能",
+      "manufacturing": "先進製造",
+      "cleanEnergy": "清潔能源",
+      "healthcare": "醫療健康"
+    },
+    "industry": {
+      "title": "行業參與",
+      "description1": "作為香港創業投資及私募股權協會（HKVCA）的活躍成員，我們的管理團隊積極參與行業交流與生態建設，致力於推動亞洲金融格局的創新與成長。",
+      "hkvca": "香港創業投資及私募股權協會"
+    },
+    "clients": {
+      "title": "客戶服務",
+      "description1": "我們的客戶群體遍及全球，包括家族辦公室、財富管理機構、機構投資人與主權基金。我們提供量身定制的投資策略、私募市場配置機會及主題基金架構，以滿足不同客戶的資產配置需求。",
+      "types": {
+        "familyOffice": "家族辦公室",
+        "wealthManagement": "財富管理機構",
+        "institutional": "機構投資人",
+        "sovereignFund": "主權基金"
+      }
+    },
+    "vision": {
+      "quote": "「我們投資於亞洲的未來領導者——在全球發現他們之前，先看到價值。」"
+    },
+    "cta": {
+      "title": "了解更多",
+      "description": "想要了解更多關於我們的投資理念和服務？",
+      "button": "聯絡我們"
+    }
+  },
+  "chairman": {
+    "hero": {
+      "title": "董事長",
+      "subtitle": "領導團隊，引領未來"
+    },
+    "profile": {
+      "name": "曾曉松",
+      "position": "董事會主席兼首席投資官",
+      "summaryTitle": "專業背景",
+      "summary": "CFA持證人，擁有豐富的國際投資銀行和資產管理經驗，專注於亞洲市場的戰略投資和企業成長。",
+      "cfa": "CFA持證人",
+      "experience": "年專業經驗"
+    },
+    "education": {
+      "title": "教育背景",
+      "master": {
+        "school": "倫敦政治經濟學院",
+        "degree": "會計與金融碩士"
+      },
+      "bachelor": {
+        "school": "武漢大學",
+        "degree": "國際金融學士"
+      }
+    },
+    "career": {
+      "title": "職業經歷",
+      "jpmorgan": {
+        "period": "早期職業生涯",
+        "position": "投資銀行部副總",
+        "company": "摩根大通",
+        "description": "主導IPO與併購交易，積累了豐富的投資銀行業務經驗。"
+      },
+      "greenwoods": {
+        "period": "2008-2022",
+        "position": "合夥人兼CEO",
+        "company": "Greenwoods Asset Management Hong Kong",
+        "description": "領導公司在香港的資產管理業務，管理多元化的投資組合。"
+      }
+    },
+    "current": {
+      "title": "現任職務",
+      "hkvca": {
+        "position": "中國委員會副主席",
+        "organization": "香港創業投資與私募股權協會"
+      },
+      "director": {
+        "position": "多家上市公司獨立董事",
+        "description": "為多家上市公司提供戰略指導"
+      }
+    },
+    "expertise": {
+      "title": "投資專長",
+      "description": "專注於戰略投資主題，在新興科技和可持續發展領域擁有深厚的專業知識。",
+      "areas": {
+        "ai": "人工智能",
+        "cleanEnergy": "清潔能源",
+        "healthcare": "健康醫療"
+      }
+    },
+    "cta": {
+      "title": "了解更多",
+      "description": "想要了解更多關於我們的投資理念和專業服務？",
+      "button": "聯絡我們"
+    }
+  },
+  "compliance": {
+    "hero": {
+      "title": "監管與合規",
+      "subtitle": "維持最高標準的誠信、透明度與合規性"
+    },
+    "policy": {
+      "title": "合規政策說明",
+      "description": "奧愷基金管理集團亞洲有限公司致力於在所有業務活動中維持最高標準的誠信、透明度與合規性。作為一家持有香港證券及期貨事務監察委員會（SFC）牌照的資產管理機構，我們已建立健全的合規政策體系，以確保全面履行本地及國際金融監管規定。"
+    },
+    "credentials": {
+      "sfc": {
+        "title": "證監會牌照",
+        "number": "BTX937",
+        "description": "香港證監會持牌機構"
+      },
+      "lei": {
+        "title": "法律實體識別碼",
+        "number": "984500A557HF7695BC85",
+        "description": "國際認可的法律實體標識"
+      },
+      "established": {
+        "title": "成立年份",
+        "year": "2022",
+        "description": "於香港註冊成立"
+      }
+    },
+    "practices": {
+      "title": "核心合規實踐",
+      "items": {
+        "kyc": {
+          "title": "客戶盡職調查及反洗錢機制",
+          "description": "我們執行嚴格的客戶識別與風險評級程序，識別受益人、資金來源與客戶交易行為，防範洗錢、詐騙及恐怖融資行為。"
+        },
+        "marketAbuse": {
+          "title": "內幕信息與市場操縱防範政策",
+          "description": "員工嚴禁利用非公開信息進行交易，公司設有交易前申報制度與黑名單管理機制。"
+        },
+        "conflict": {
+          "title": "利益衝突識別與管理機制",
+          "description": "我們識別並記錄任何可能對客戶或公司構成影響的潛在利益衝突，並通過披露、隔離或豁免等方式妥善管理。"
+        },
+        "riskControl": {
+          "title": "投資限制與風險限額控制",
+          "description": "公司制定投資組合集中度限制、流動性約束與對手方敞口上限，確保在預設風險容忍範圍內運作。"
+        },
+        "training": {
+          "title": "員工合規培訓與道德標準守則",
+          "description": "所有員工必須定期接受法規更新、道德操守、數據保密等合規培訓，簽署內部行為準則。"
+        },
+        "cco": {
+          "title": "合規官制度與內部審計",
+          "description": "我們設立專職合規負責人，獨立於投資與銷售職能，定期向董事會與監管機構匯報合規狀態。"
+        }
+      }
+    },
+    "activities": {
+      "title": "規管活動類別",
+      "description": "我們獲得香港證監會授權從事以下受規管活動：",
+      "types": {
+        "type1": "證券交易",
+        "type4": "就證券提供意見",
+        "type9": "資產管理"
+      },
+      "descriptions": {
+        "type1": "為客戶進行證券買賣交易",
+        "type4": "提供專業的證券投資建議",
+        "type9": "管理客戶的投資組合"
+      }
+    },
+    "commitment": {
+      "title": "我們的承諾",
+      "description": "我們承諾持續提升合規標準，確保所有業務活動符合監管要求，為客戶提供安全、透明、專業的投資服務。"
+    },
+    "cta": {
+      "title": "了解更多合規信息",
+      "description": "如需了解更多關於我們的合規政策和監管資質，請聯絡我們。",
+      "button": "聯絡我們"
+    }
+  },
+  "strategy": {
+    "hero": {
+      "title": "投資策略",
+      "subtitle": "發現下一代行業領導者，實現風險與收益的最優平衡"
+    },
+    "philosophy": {
+      "title": "投資理念",
+      "description": "我們相信，亞洲正處於全球資本結構重塑的核心。奧愷的投資策略聚焦於發現下一代行業領導者，並通過結構化方式實現風險與收益的最優平衡。",
+      "focus": "前瞻性投資",
+      "focusDescription": "提前識別市場趨勢，投資未來領導者",
+      "principles": {
+        "precision": "精準定位投資機會",
+        "balance": "平衡風險與收益",
+        "foresight": "前瞻性市場洞察"
+      }
+    },
+    "pillars": {
+      "title": "主要策略方向",
+      "thematic": {
+        "title": "主題導向型投資",
+        "description": "聚焦於高成長領域，捕捉長期趨勢中的結構性機會。",
+        "areas": ["人工智能", "機器人", "綠色能源", "數位基礎建設", "醫療健康", "下一代消費"]
+      },
+      "crossCycle": {
+        "title": "跨週期配置與宏觀對沖",
+        "description": "利用宏觀數據建模與情境分析，實現多週期動態資產配置。",
+        "methods": ["宏觀數據建模", "情境分析", "動態資產配置", "衍生品風險對沖"]
+      },
+      "privateMarket": {
+        "title": "私募市場與PIPE機會",
+        "description": "通過參與優質項目，獲得戰略性投資切入點。",
+        "opportunities": ["Pre-IPO投資", "PIPE投資", "成長型企業定向增發", "戰略性投資機會"]
+      },
+      "riskFirst": {
+        "title": "風控優先、長期持有",
+        "description": "投資策略以穩健為前提，堅持研究驅動與風險控制並行。",
+        "approaches": ["自下而上研究驅動", "自上而下風險控制", "重倉高信念個股", "追求複利增長"]
+      }
+    },
+    "process": {
+      "title": "投資流程",
+      "description": "我們遵循嚴謹的投資流程，確保每個投資決策都經過充分的研究和分析。",
+      "steps": {
+        "research": "深度研究",
+        "analysis": "風險分析",
+        "execution": "策略執行",
+        "monitoring": "持續監控"
+      },
+      "descriptions": {
+        "research": "深入分析行業趨勢和企業基本面",
+        "analysis": "全面評估投資風險和收益潛力",
+        "execution": "精準執行投資策略和資產配置",
+        "monitoring": "持續監控投資組合表現和調整"
+      }
+    },
+    "quote": {
+      "text": "「我們不追逐風口，而是提前三年看清風從哪吹來。」"
+    },
+    "cta": {
+      "title": "了解我們的投資策略",
+      "description": "想要了解更多關於我們的投資理念和策略方法？",
+      "button": "聯絡我們"
+    }
+  },
+  "responsibility": {
+    "hero": {
+      "title": "社會責任",
+      "subtitle": "承擔社會責任，推動可持續發展"
+    },
+    "philosophy": {
+      "title": "企業社會責任理念",
+      "description": "在奧愷，我們深信資產管理不僅是追求回報的過程，更是承擔社會責任的實踐。作為香港持牌機構，我們致力於在投資活動中融入可持續發展理念，推動資本流向真正有益於社會和環境的方向。",
+      "mission": "可持續投資使命",
+      "missionDescription": "將ESG理念融入投資決策，創造長期價值",
+      "values": {
+        "sustainability": "環境可持續發展",
+        "community": "社區參與和支持",
+        "governance": "透明治理標準"
+      }
+    },
+    "commitments": {
+      "title": "我們的責任承諾",
+      "esg": {
+        "title": "ESG整合",
+        "description": "我們在盡職調查、投後管理與退出流程中全面評估環境、社會與治理因素，優先配置ESG高評級標的。"
+      },
+      "cleanTech": {
+        "title": "清潔科技與未來產業支持",
+        "description": "奧愷重點投資於新經濟板塊，助力可持續科技在亞洲落地發展。",
+        "sectors": ["綠色能源", "智能製造", "生物醫藥", "數字普惠"]
+      },
+      "community": {
+        "title": "公益參與與金融教育",
+        "description": "我們支持多項社區項目，為社區注入知識與資源。",
+        "programs": ["慈善項目", "青年金融教育計劃", "創業者孵化項目", "社區發展支持"]
+      },
+      "governance": {
+        "title": "公司治理與透明度",
+        "description": "奧愷堅守最高治理標準，確保客戶與公眾的信任。",
+        "standards": ["KYC客戶盡職調查", "反洗錢政策", "利益衝突管理", "透明度報告"]
+      }
+    },
+    "sdgs": {
+      "title": "可持續發展目標",
+      "description": "我們的投資和業務活動與聯合國可持續發展目標保持一致，為全球可持續發展貢獻力量。",
+      "goals": {
+        "climate": "氣候行動",
+        "education": "優質教育",
+        "innovation": "產業創新"
+      },
+      "descriptions": {
+        "climate": "投資清潔能源和環保技術",
+        "education": "支持金融教育和人才培養",
+        "innovation": "推動可持續創新發展"
+      }
+    },
+    "quote": {
+      "text": "「我們相信，資本是一種責任，而非特權。」"
+    },
+    "cta": {
+      "title": "了解我們的ESG實踐",
+      "description": "想要了解更多關於我們的可持續發展理念和社會責任實踐？",
+      "button": "聯絡我們"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "聯絡我們"
+    },
+    "company": {
+      "name": "奧愷基金管理集團亞洲有限公司"
+    },
+    "form": {
+      "placeholders": {
+        "name": "姓名",
+        "email": "電郵",
+        "phone": "電話",
+        "message": "信息"
+      },
+      "submit": "傳送",
+      "submitting": "傳送中...",
+      "successMessage": "您的信息已成功發送，我們會盡快回覆您。"
+    },
+    "office": {
+      "hk": {
+        "title": "香港總事處",
+        "address": {
+          "line1": "香港銅鑼灣告士打道280號",
+          "line2": "世貿中心37樓01-08室"
+        }
+      }
+    },
+    "inquiry": {
+      "title": "查詢熱線",
+      "phone": {
+        "main": "852-2593 9602",
+        "mainNote": "中文及英文",
+        "alt": "852-2159 5008",
+        "altNote": "日文"
+      },
+      "email": "info@arcadiafund.asia",
+      "fax": "852-3575 1312",
+      "faxNote": "傳真專線"
+    },
+    "hours": {
+      "title": "營業時間",
+      "weekdays": "星期一至五",
+      "weekdaysTime": "上午9:00 - 下午6:00",
+      "saturday": "星期六",
+      "saturdayTime": "上午9:00 - 下午1:00",
+      "sunday": "星期日",
+      "sundayTime": "休息"
+    },
+    "regulatory": {
+      "title": "監管資質",
+      "sfc": "證監會牌照",
+      "sfcNumber": "BTX937",
+      "lei": "法律實體識別碼",
+      "leiNumber": "984500A557HF7695BC85"
+    },
+    "map": {
+      "placeholder": "地圖位置（待實現）"
+    }
+  },
+  "footer": {
+    "links": {
+      "disclaimer": "免責聲明",
+      "privacy": "私隱政策",
+      "contact": "聯絡我們"
+    },
+    "copyright": {
+      "text": "© 2025 奧愷基金管理集團亞洲有限公司 版權所有"
+    },
+    "license": {
+      "insurance": "持牌保險中介機構牌照編號：FB1152",
+      "sfc": "香港證監會持牌機構編號：BTX937"
+    },
+    "backToTop": "回到頂部"
+  }
+}

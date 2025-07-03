@@ -1,0 +1,476 @@
+{
+  "meta": {
+    "title": "奥恺基金管理集团",
+    "description": "奥恺基金管理集团是一家专注于亚洲最具增长潜力的投资机会，为客户创造长期价值的财富管理公司。"
+  },
+  "header": {
+    "subtitle": "奥恺基金管理集团亚洲有限公司",
+    "memberLogin": "会员登录",
+    "mobileMenuToggle": "切换菜单",
+    "logoAlt": "奥恺基金管理集团",
+    "nav": {
+      "home": "首页",
+      "about": "关于我们",
+      "aboutCompany": "公司介绍",
+      "chairman": "董事长",
+      "compliance": "监管与合规",
+      "strategy": "投资策略",
+      "responsibility": "社会责任",
+      "contact": "联系我们"
+    }
+  },
+  "mobileMenu": {
+    "languageLabel": "语言选择",
+    "copyright": "© 2024 奥恺基金管理集团亚洲有限公司",
+    "allRightsReserved": "版权所有"
+  },
+  "home": {
+    "hero": {
+      "titleZh": "奥识全球，恺启未来",
+      "titleEn": "Global Insight, Harmonious Future",
+      "subtitle": "专注于亚洲最具增长潜力的投资机会，为客户创造长期价值"
+    },
+    "activity": {
+      "title": "最新活动：2025 大中华私募投资高峰会"
+    },
+    "about": {
+      "title": "关于我们",
+      "learnMore": "了解更多"
+    },
+    "advantages": {
+      "items": {
+        "strategy": "一站式财富管理",
+        "strategyDesc": "我们拥有完整的投资策略体系，为客户提供全方位的资产配置建议，以及专业的风险管理服务。",
+        "network": "专业团队",
+        "networkDesc": "我们的团队由来自国际投行、对冲基金及私募股权机构的资深专业人士组成，具备丰富的跨境投资经验。",
+        "expertise": "品牌实力",
+        "expertiseDesc": "作为香港证监会持牌机构，我们始终坚持最高标准的合规性和透明度，赢得客户的信任。"
+      }
+    },
+    "investment": {
+      "title": "投资策略",
+      "learnMore": "了解更多",
+      "areas": {
+        "ai": "人工智能",
+        "aiDesc": "我们重点投资于人工智能、机器学习等前沿科技领域，捕捉科技创新带来的投资机遇。",
+        "manufacturing": "先进制造",
+        "manufacturingDesc": "专注于智能制造、工业4.0等领域的投资机会，助力传统制造业转型升级。",
+        "cleanEnergy": "清洁能源",
+        "cleanEnergyDesc": "投资于可再生能源、节能环保等绿色产业，推动可持续发展。",
+        "healthcare": "医疗健康",
+        "healthcareDesc": "关注生物医药、医疗器械、数字医疗等健康产业的投资机会。"
+      }
+    },
+    "esg": {
+      "title": "社会责任",
+      "description": "我们深信资产管理不仅是追求回报的过程，更是承担社会责任的实践。我们致力于将ESG理念融入投资决策，推动资本流向真正有益于社会和环境的方向。",
+      "learnMore": "了解更多",
+      "stats": {
+        "projects": "50+",
+        "projectsLabel": "ESG投资项目",
+        "impact": "100%",
+        "impactLabel": "ESG整合覆盖率",
+        "commitment": "长期",
+        "commitmentLabel": "可持续发展承诺"
+      }
+    },
+    "contact": {
+      "title": "更多咨询？请即联系我们",
+      "description": "我们的专业团队随时为您提供个性化的投资建议和服务。",
+      "contactUs": "联系我们"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "关于我们",
+      "subtitle": "专注于亚洲最具增长潜力的投资机会"
+    },
+    "company": {
+      "title": "公司简介",
+      "name": "奥恺基金管理集团亚洲有限公司",
+      "description1": "是一家总部设于香港的持牌资产管理公司，已获得香港证券及期货事务监察委员会（SFC）授权，专注于为客户提供机构级的投资解决方案，覆盖亚洲最具增长潜力的领域，包括人工智能、先进制造、清洁能源与医疗健康等。"
+    },
+    "team": {
+      "title": "专业团队",
+      "description1": "公司由一支资深团队创办，成员曾服务于全球领先的投行与资产管理机构，具备丰富的跨境投资与风险管理经验。Arcadia 始终坚持长期价值导向，通过严谨的研究、高度纪律性的风控流程，以及高信念投资策略，为客户创造持续回报。",
+      "expertise": "专业经验"
+    },
+    "philosophy": {
+      "title": "投资领域",
+      "approach": "投资理念",
+      "description1": "始终坚持长期价值导向，通过严谨的研究、高度纪律性的风控流程，以及高信念投资策略，为客户创造持续回报。"
+    },
+    "sectors": {
+      "ai": "人工智能",
+      "manufacturing": "先进制造",
+      "cleanEnergy": "清洁能源",
+      "healthcare": "医疗健康"
+    },
+    "industry": {
+      "title": "行业参与",
+      "description1": "作为香港创业投资及私募股权协会（HKVCA）的活跃成员，我们的管理团队积极参与行业交流与生态建设，致力于推动亚洲金融格局的创新与成长。",
+      "hkvca": "香港创业投资及私募股权协会"
+    },
+    "clients": {
+      "title": "客户服务",
+      "description1": "我们的客户群体遍及全球，包括家族办公室、财富管理机构、机构投资人与主权基金。我们提供量身定制的投资策略、私募市场配置机会及主题基金架构，以满足不同客户的资产配置需求。",
+      "types": {
+        "familyOffice": "家族办公室",
+        "wealthManagement": "财富管理机构",
+        "institutional": "机构投资人",
+        "sovereignFund": "主权基金"
+      }
+    },
+    "vision": {
+      "quote": "「我们投资于亚洲的未来领导者——在全球发现他们之前，先看到价值。」"
+    },
+    "cta": {
+      "title": "了解更多",
+      "description": "想要了解更多关于我们的投资理念和服务？",
+      "button": "联系我们"
+    }
+  },
+  "chairman": {
+    "hero": {
+      "title": "董事长",
+      "subtitle": "领导团队，引领未来"
+    },
+    "profile": {
+      "name": "曾晓松",
+      "position": "董事会主席兼首席投资官",
+      "summaryTitle": "专业背景",
+      "summary": "CFA持证人，拥有丰富的国际投资银行和资产管理经验，专注于亚洲市场的战略投资和企业成长。",
+      "cfa": "CFA持证人",
+      "experience": "年专业经验"
+    },
+    "education": {
+      "title": "教育背景",
+      "master": {
+        "school": "伦敦政治经济学院",
+        "degree": "会计与金融硕士"
+      },
+      "bachelor": {
+        "school": "武汉大学",
+        "degree": "国际金融学士"
+      }
+    },
+    "career": {
+      "title": "职业经历",
+      "jpmorgan": {
+        "period": "早期职业生涯",
+        "position": "投资银行部副总",
+        "company": "摩根大通",
+        "description": "主导IPO与并购交易，积累了丰富的投资银行业务经验。"
+      },
+      "greenwoods": {
+        "period": "2008-2022",
+        "position": "合伙人兼CEO",
+        "company": "Greenwoods Asset Management Hong Kong",
+        "description": "领导公司在香港的资产管理业务，管理多元化的投资组合。"
+      }
+    },
+    "current": {
+      "title": "现任职务",
+      "hkvca": {
+        "position": "中国委员会副主席",
+        "organization": "香港创业投资与私募股权协会"
+      },
+      "director": {
+        "position": "多家上市公司独立董事",
+        "description": "为多家上市公司提供战略指导"
+      }
+    },
+    "expertise": {
+      "title": "投资专长",
+      "description": "专注于战略投资主题，在新兴科技和可持续发展领域拥有深厚的专业知识。",
+      "areas": {
+        "ai": "人工智能",
+        "cleanEnergy": "清洁能源",
+        "healthcare": "健康医疗"
+      }
+    },
+    "cta": {
+      "title": "了解更多",
+      "description": "想要了解更多关于我们的投资理念和专业服务？",
+      "button": "联系我们"
+    }
+  },
+  "compliance": {
+    "hero": {
+      "title": "监管与合规",
+      "subtitle": "维持最高标准的诚信、透明度与合规性"
+    },
+    "policy": {
+      "title": "合规政策说明",
+      "description": "奥恺基金管理集团亚洲有限公司致力于在所有业务活动中维持最高标准的诚信、透明度与合规性。作为一家持有香港证券及期货事务监察委员会（SFC）牌照的资产管理机构，我们已建立健全的合规政策体系，以确保全面履行本地及国际金融监管规定。"
+    },
+    "credentials": {
+      "sfc": {
+        "title": "证监会牌照",
+        "number": "BTX937",
+        "description": "香港证监会持牌机构"
+      },
+      "lei": {
+        "title": "法律实体识别码",
+        "number": "984500A557HF7695BC85",
+        "description": "国际认可的法律实体标识"
+      },
+      "established": {
+        "title": "成立年份",
+        "year": "2022",
+        "description": "于香港注册成立"
+      }
+    },
+    "practices": {
+      "title": "核心合规实践",
+      "items": {
+        "kyc": {
+          "title": "客户尽职调查及反洗钱机制",
+          "description": "我们执行严格的客户识别与风险评级程序，识别受益人、资金来源与客户交易行为，防范洗钱、诈骗及恐怖融资行为。"
+        },
+        "marketAbuse": {
+          "title": "内幕信息与市场操纵防范政策",
+          "description": "员工严禁利用非公开信息进行交易，公司设有交易前申报制度与黑名单管理机制。"
+        },
+        "conflict": {
+          "title": "利益冲突识别与管理机制",
+          "description": "我们识别并记录任何可能对客户或公司构成影响的潜在利益冲突，并通过披露、隔离或豁免等方式妥善管理。"
+        },
+        "riskControl": {
+          "title": "投资限制与风险限额控制",
+          "description": "公司制定投资组合集中度限制、流动性约束与对手方敞口上限，确保在预设风险容忍范围内运作。"
+        },
+        "training": {
+          "title": "员工合规培训与道德标准守则",
+          "description": "所有员工必须定期接受法规更新、道德操守、数据保密等合规培训，签署内部行为准则。"
+        },
+        "cco": {
+          "title": "合规官制度与内部审计",
+          "description": "我们设立专职合规负责人，独立于投资与销售职能，定期向董事会与监管机构汇报合规状态。"
+        }
+      }
+    },
+    "activities": {
+      "title": "规管活动类别",
+      "description": "我们获得香港证监会授权从事以下受规管活动：",
+      "types": {
+        "type1": "证券交易",
+        "type4": "就证券提供意见",
+        "type9": "资产管理"
+      },
+      "descriptions": {
+        "type1": "为客户进行证券买卖交易",
+        "type4": "提供专业的证券投资建议",
+        "type9": "管理客户的投资组合"
+      }
+    },
+    "commitment": {
+      "title": "我们的承诺",
+      "description": "我们承诺持续提升合规标准，确保所有业务活动符合监管要求，为客户提供安全、透明、专业的投资服务。"
+    },
+    "cta": {
+      "title": "了解更多合规信息",
+      "description": "如需了解更多关于我们的合规政策和监管资质，请联系我们。",
+      "button": "联系我们"
+    }
+  },
+  "strategy": {
+    "hero": {
+      "title": "投资策略",
+      "subtitle": "发现下一代行业领导者，实现风险与收益的最优平衡"
+    },
+    "philosophy": {
+      "title": "投资理念",
+      "description": "我们相信，亚洲正处于全球资本结构重塑的核心。奥恺的投资策略聚焦于发现下一代行业领导者，并通过结构化方式实现风险与收益的最优平衡。",
+      "focus": "前瞻性投资",
+      "focusDescription": "提前识别市场趋势，投资未来领导者",
+      "principles": {
+        "precision": "精准定位投资机会",
+        "balance": "平衡风险与收益",
+        "foresight": "前瞻性市场洞察"
+      }
+    },
+    "pillars": {
+      "title": "主要策略方向",
+      "thematic": {
+        "title": "主题导向型投资",
+        "description": "聚焦于高成长领域，捕捉长期趋势中的结构性机会。",
+        "areas": ["人工智能", "机器人", "绿色能源", "数字基础设施", "医疗健康", "下一代消费"]
+      },
+      "crossCycle": {
+        "title": "跨周期配置与宏观对冲",
+        "description": "利用宏观数据建模与情景分析，实现多周期动态资产配置。",
+        "methods": ["宏观数据建模", "情景分析", "动态资产配置", "衍生品风险对冲"]
+      },
+      "privateMarket": {
+        "title": "私募市场与PIPE机会",
+        "description": "通过参与优质项目，获得战略性投资切入点。",
+        "opportunities": ["Pre-IPO投资", "PIPE投资", "成长型企业定向增发", "战略性投资机会"]
+      },
+      "riskFirst": {
+        "title": "风控优先、长期持有",
+        "description": "投资策略以稳健为前提，坚持研究驱动与风险控制并行。",
+        "approaches": ["自下而上研究驱动", "自上而下风险控制", "重仓高信念个股", "追求复利增长"]
+      }
+    },
+    "process": {
+      "title": "投资流程",
+      "description": "我们遵循严谨的投资流程，确保每个投资决策都经过充分的研究和分析。",
+      "steps": {
+        "research": "深度研究",
+        "analysis": "风险分析",
+        "execution": "策略执行",
+        "monitoring": "持续监控"
+      },
+      "descriptions": {
+        "research": "深入分析行业趋势和企业基本面",
+        "analysis": "全面评估投资风险和收益潜力",
+        "execution": "精准执行投资策略和资产配置",
+        "monitoring": "持续监控投资组合表现和调整"
+      }
+    },
+    "quote": {
+      "text": "「我们不追逐风口，而是提前三年看清风从哪吹来。」"
+    },
+    "cta": {
+      "title": "了解我们的投资策略",
+      "description": "想要了解更多关于我们的投资理念和策略方法？",
+      "button": "联系我们"
+    }
+  },
+  "responsibility": {
+    "hero": {
+      "title": "社会责任",
+      "subtitle": "承担社会责任，推动可持续发展"
+    },
+    "philosophy": {
+      "title": "企业社会责任理念",
+      "description": "在奥恺，我们深信资产管理不仅是追求回报的过程，更是承担社会责任的实践。作为香港持牌机构，我们致力于在投资活动中融入可持续发展理念，推动资本流向真正有益于社会和环境的方向。",
+      "mission": "可持续投资使命",
+      "missionDescription": "将ESG理念融入投资决策，创造长期价值",
+      "values": {
+        "sustainability": "环境可持续发展",
+        "community": "社区参与和支持",
+        "governance": "透明治理标准"
+      }
+    },
+    "commitments": {
+      "title": "我们的责任承诺",
+      "esg": {
+        "title": "ESG整合",
+        "description": "我们在尽职调查、投后管理与退出流程中全面评估环境、社会与治理因素，优先配置ESG高评级标的。"
+      },
+      "cleanTech": {
+        "title": "清洁科技与未来产业支持",
+        "description": "奥恺重点投资于新经济板块，助力可持续科技在亚洲落地发展。",
+        "sectors": ["绿色能源", "智能制造", "生物医药", "数字普惠"]
+      },
+      "community": {
+        "title": "公益参与与金融教育",
+        "description": "我们支持多项社区项目，为社区注入知识与资源。",
+        "programs": ["慈善项目", "青年金融教育计划", "创业者孵化项目", "社区发展支持"]
+      },
+      "governance": {
+        "title": "公司治理与透明度",
+        "description": "奥恺坚守最高治理标准，确保客户与公众的信任。",
+        "standards": ["KYC客户尽职调查", "反洗钱政策", "利益冲突管理", "透明度报告"]
+      }
+    },
+    "sdgs": {
+      "title": "可持续发展目标",
+      "description": "我们的投资和业务活动与联合国可持续发展目标保持一致，为全球可持续发展贡献力量。",
+      "goals": {
+        "climate": "气候行动",
+        "education": "优质教育",
+        "innovation": "产业创新"
+      },
+      "descriptions": {
+        "climate": "投资清洁能源和环保技术",
+        "education": "支持金融教育和人才培养",
+        "innovation": "推动可持续创新发展"
+      }
+    },
+    "quote": {
+      "text": "「我们相信，资本是一种责任，而非特权。」"
+    },
+    "cta": {
+      "title": "了解我们的ESG实践",
+      "description": "想要了解更多关于我们的可持续发展理念和社会责任实践？",
+      "button": "联系我们"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "联系我们"
+    },
+    "company": {
+      "name": "奥恺基金管理集团亚洲有限公司"
+    },
+    "form": {
+      "placeholders": {
+        "name": "姓名",
+        "email": "邮箱",
+        "phone": "电话",
+        "message": "信息"
+      },
+      "submit": "发送",
+      "submitting": "发送中...",
+      "successMessage": "您的信息已成功发送，我们会尽快回复您。"
+    },
+    "office": {
+      "hk": {
+        "title": "香港总部",
+        "address": {
+          "line1": "香港铜锣湾告士打道280号",
+          "line2": "世贸中心37楼01-08室"
+        }
+      }
+    },
+    "inquiry": {
+      "title": "查询热线",
+      "phone": {
+        "main": "852-2593 9602",
+        "mainNote": "中文及英文",
+        "alt": "852-2159 5008",
+        "altNote": "日文"
+      },
+      "email": "info@arcadiafund.asia",
+      "fax": "852-3575 1312",
+      "faxNote": "传真专线"
+    },
+    "hours": {
+      "title": "营业时间",
+      "weekdays": "星期一至五",
+      "weekdaysTime": "上午9:00 - 下午6:00",
+      "saturday": "星期六",
+      "saturdayTime": "上午9:00 - 下午1:00",
+      "sunday": "星期日",
+      "sundayTime": "休息"
+    },
+    "regulatory": {
+      "title": "监管资质",
+      "sfc": "证监会牌照",
+      "sfcNumber": "BTX937",
+      "lei": "法律实体识别码",
+      "leiNumber": "984500A557HF7695BC85"
+    },
+    "map": {
+      "placeholder": "地图位置（待实现）"
+    }
+  },
+  "footer": {
+    "links": {
+      "disclaimer": "免责声明",
+      "privacy": "隐私政策",
+      "contact": "联系我们"
+    },
+    "copyright": {
+      "text": "© 2025 奥恺基金管理集团亚洲有限公司 版权所有"
+    },
+    "license": {
+      "insurance": "持牌保险中介机构牌照编号：FB1152",
+      "sfc": "香港证监会持牌机构编号：BTX937"
+    },
+    "backToTop": "回到顶部"
+  }
+}

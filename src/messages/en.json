@@ -1,0 +1,476 @@
+{
+  "meta": {
+    "title": "Arcadia Fund Management Group Asia Limited",
+    "description": "Arcadia Fund Management Group Asia Limited is a wealth management company focused on the most growth-potential investment opportunities in Asia, creating long-term value for its clients."
+  },
+  "header": {
+    "subtitle": "Arcadia Fund Management Group Asia Limited Asia Limited",
+    "memberLogin": "Member Login",
+    "mobileMenuToggle": "Toggle Menu",
+    "logoAlt": "Arcadia Fund Management Group Asia Limited",
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "aboutCompany": "Company Introduction",
+      "chairman": "Chairman",
+      "compliance": "Regulatory and Compliance",
+      "strategy": "Investment Strategy",
+      "responsibility": "Social Responsibility",
+      "contact": "Contact Us"
+    }
+  },
+  "mobileMenu": {
+    "languageLabel": "Language Selection",
+    "copyright": "© 2024 Arcadia Fund Management Group Asia Limited Asia Limited",
+    "allRightsReserved": "All Rights Reserved"
+  },
+  "home": {
+    "hero": {
+      "titleZh": "奥识全球，恺启未来",
+      "titleEn": "Global Insight, Harmonious Future",
+      "subtitle": "Focused on the most growth-potential investment opportunities in Asia to create long-term value for our clients."
+    },
+    "activity": {
+      "title": "Latest Event: 2025 Greater China Private Equity Summit"
+    },
+    "about": {
+      "title": "About Us",
+      "learnMore": "Learn More"
+    },
+    "advantages": {
+      "items": {
+        "strategy": "One-stop Wealth Management",
+        "strategyDesc": "We have a complete investment strategy system, providing comprehensive asset allocation advice and professional risk management services to our clients.",
+        "network": "Professional Team",
+        "networkDesc": "Our team consists of seasoned professionals from international investment banks, hedge funds, and private equity firms, possessing extensive cross-border investment experience.",
+        "expertise": "Brand Strength",
+        "expertiseDesc": "As an SFC-licensed entity in Hong Kong, we always adhere to the highest standards of compliance and transparency, earning the trust of our clients."
+      }
+    },
+    "investment": {
+      "title": "Investment Strategies",
+      "learnMore": "Learn More",
+      "areas": {
+        "ai": "Artificial Intelligence",
+        "aiDesc": "We focus on investing in cutting-edge technology areas such as artificial intelligence and machine learning to capture investment opportunities brought by technological innovations.",
+        "manufacturing": "Advanced Manufacturing",
+        "manufacturingDesc": "Concentrating on investment opportunities in smart manufacturing and Industry 4.0, assisting traditional manufacturing industries in upgrading and transformation.",
+        "cleanEnergy": "Clean Energy",
+        "cleanEnergyDesc": "Investing in renewable energy and environmental protection industries to promote sustainable development.",
+        "healthcare": "Healthcare",
+        "healthcareDesc": "Focusing on investment opportunities in biomedicine, medical devices, and digital healthcare within the health industry."
+      }
+    },
+    "esg": {
+      "title": "Social Responsibility",
+      "description": "We firmly believe that asset management is not only about pursuing returns but also about practicing social responsibility. We are dedicated to integrating ESG principles into our investment decisions to guide capital towards truly beneficial social and environmental directions.",
+      "learnMore": "Learn More",
+      "stats": {
+        "projects": "50+",
+        "projectsLabel": "ESG Investment Projects",
+        "impact": "100%",
+        "impactLabel": "ESG Integration Coverage",
+        "commitment": "Long-term",
+        "commitmentLabel": "Sustainable Development Commitment"
+      }
+    },
+    "contact": {
+      "title": "More Inquiries? Contact Us Now",
+      "description": "Our professional team is ready to provide personalized investment advice and services.",
+      "contactUs": "Contact Us"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Us",
+      "subtitle": "Focused on the most growth-potential investment opportunities in Asia"
+    },
+    "company": {
+      "title": "Company Introduction",
+      "name": "Arcadia Fund Management Group Asia Limited Asia Limited",
+      "description1": "A licensed asset management company headquartered in Hong Kong, authorized by the Securities and Futures Commission (SFC) of Hong Kong, dedicated to providing institutional-grade investment solutions covering the most growth-potential sectors in Asia, including Artificial Intelligence, Advanced Manufacturing, Clean Energy, and Healthcare."
+    },
+    "team": {
+      "title": "Professional Team",
+      "description1": "Founded by a seasoned team with experience from leading global investment banks and asset management firms, possessing extensive cross-border investment and risk management expertise. Aokai always adheres to a long-term value orientation, creating sustained returns for clients through rigorous research, highly disciplined risk control processes, and high-conviction investment strategies.",
+      "expertise": "Professional Experience"
+    },
+    "philosophy": {
+      "title": "Investment Sectors",
+      "approach": "Investment Philosophy",
+      "description1": "Always adhering to a long-term value orientation, creating sustained returns for clients through rigorous research, highly disciplined risk control processes, and high-conviction investment strategies."
+    },
+    "sectors": {
+      "ai": "Artificial Intelligence",
+      "manufacturing": "Advanced Manufacturing",
+      "cleanEnergy": "Clean Energy",
+      "healthcare": "Healthcare"
+    },
+    "industry": {
+      "title": "Industry Participation",
+      "description1": "As an active member of the Hong Kong Venture Capital and Private Equity Association (HKVCA), our management team actively participates in industry exchanges and ecosystem building, committed to promoting innovation and growth in Asia's financial landscape.",
+      "hkvca": "Hong Kong Venture Capital and Private Equity Association"
+    },
+    "clients": {
+      "title": "Client Services",
+      "description1": "Our client base spans globally, including family offices, wealth management institutions, institutional investors, and sovereign funds. We provide tailored investment strategies, private market allocation opportunities, and thematic fund structures to meet diverse asset allocation needs.",
+      "types": {
+        "familyOffice": "Family Offices",
+        "wealthManagement": "Wealth Management Institutions",
+        "institutional": "Institutional Investors",
+        "sovereignFund": "Sovereign Funds"
+      }
+    },
+    "vision": {
+      "quote": "We invest in Asia's future leaders—seeing value before the world does."
+    },
+    "cta": {
+      "title": "Learn More",
+      "description": "Interested in learning more about our investment philosophy and services?",
+      "button": "Contact Us"
+    }
+  },
+  "chairman": {
+    "hero": {
+      "title": "Chairman",
+      "subtitle": "Leading the Team, Shaping the Future"
+    },
+    "profile": {
+      "name": "Xiaosong Zeng",
+      "position": "Chairman of the Board and Chief Investment Officer",
+      "summaryTitle": "Professional Background",
+      "summary": "CFA charterholder with extensive international investment banking and asset management experience, focusing on strategic investments and corporate growth in Asian markets.",
+      "cfa": "CFA Charterholder",
+      "experience": "Years of Professional Experience"
+    },
+    "education": {
+      "title": "Education",
+      "master": {
+        "school": "London School of Economics and Political Science",
+        "degree": "Master of Accounting and Finance"
+      },
+      "bachelor": {
+        "school": "Wuhan University",
+        "degree": "Bachelor of International Finance"
+      }
+    },
+    "career": {
+      "title": "Career History",
+      "jpmorgan": {
+        "period": "Early Career",
+        "position": "Vice President, Investment Banking",
+        "company": "J.P. Morgan",
+        "description": "Led IPOs and M&A transactions, accumulating extensive investment banking experience."
+      },
+      "greenwoods": {
+        "period": "2008-2022",
+        "position": "Partner and CEO",
+        "company": "Greenwoods Asset Management Hong Kong",
+        "description": "Led the company's asset management business in Hong Kong, managing diversified investment portfolios."
+      }
+    },
+    "current": {
+      "title": "Current Positions",
+      "hkvca": {
+        "position": "Vice Chairman of the China Committee",
+        "organization": "Hong Kong Venture Capital and Private Equity Association"
+      },
+      "director": {
+        "position": "Independent Director of Multiple Listed Companies",
+        "description": "Providing strategic guidance to multiple listed companies."
+      }
+    },
+    "expertise": {
+      "title": "Investment Expertise",
+      "description": "Specializes in strategic investment themes with deep expertise in emerging technologies and sustainable development.",
+      "areas": {
+        "ai": "Artificial Intelligence",
+        "cleanEnergy": "Clean Energy",
+        "healthcare": "Healthcare"
+      }
+    },
+    "cta": {
+      "title": "Learn More",
+      "description": "Interested in learning more about our investment philosophy and professional services?",
+      "button": "Contact Us"
+    }
+  },
+  "compliance": {
+    "hero": {
+      "title": "Regulatory and Compliance",
+      "subtitle": "Maintaining the Highest Standards of Integrity, Transparency, and Compliance"
+    },
+    "policy": {
+      "title": "Compliance Policy Statement",
+      "description": "Arcadia Fund Management Group Asia Limited Asia Limited is committed to maintaining the highest standards of integrity, transparency, and compliance in all its business activities. As an asset management institution licensed by the Securities and Futures Commission (SFC) of Hong Kong, we have established a comprehensive compliance policy framework to ensure full adherence to local and international financial regulatory requirements."
+    },
+    "credentials": {
+      "sfc": {
+        "title": "SFC License",
+        "number": "BTX937",
+        "description": "Licensed by the Hong Kong Securities and Futures Commission"
+      },
+      "lei": {
+        "title": "Legal Entity Identifier",
+        "number": "984500A557HF7695BC85",
+        "description": "Internationally recognized legal entity identifier"
+      },
+      "established": {
+        "title": "Year Established",
+        "year": "2022",
+        "description": "Registered in Hong Kong"
+      }
+    },
+    "practices": {
+      "title": "Core Compliance Practices",
+      "items": {
+        "kyc": {
+          "title": "Customer Due Diligence and Anti-Money Laundering Mechanisms",
+          "description": "We implement strict customer identification and risk rating procedures to identify beneficiaries, sources of funds, and customer transaction behaviors, preventing money laundering, fraud, and terrorist financing."
+        },
+        "marketAbuse": {
+          "title": "Insider Information and Market Manipulation Prevention Policies",
+          "description": "Employees are strictly prohibited from trading on non-public information; the company has pre-trade reporting systems and blacklist management mechanisms."
+        },
+        "conflict": {
+          "title": "Conflict of Interest Identification and Management Mechanisms",
+          "description": "We identify and record any potential conflicts of interest that may affect clients or the company and manage them appropriately through disclosure, segregation, or exemption."
+        },
+        "riskControl": {
+          "title": "Investment Restrictions and Risk Limit Controls",
+          "description": "The company sets portfolio concentration limits, liquidity constraints, and counterparty exposure caps to operate within predefined risk tolerance levels."
+        },
+        "training": {
+          "title": "Employee Compliance Training and Ethical Standards Code",
+          "description": "All employees must regularly undergo compliance training on regulatory updates, ethical conduct, data confidentiality, and sign internal codes of conduct."
+        },
+        "cco": {
+          "title": "Chief Compliance Officer System and Internal Audits",
+          "description": "We have appointed a dedicated Chief Compliance Officer independent of investment and sales functions, who reports compliance status regularly to the board and regulators."
+        }
+      }
+    },
+    "activities": {
+      "title": "Regulated Activities Categories",
+      "description": "We are authorized by the Hong Kong SFC to engage in the following regulated activities:",
+      "types": {
+        "type1": "Dealing in Securities",
+        "type4": "Advising on Securities",
+        "type9": "Asset Management"
+      },
+      "descriptions": {
+        "type1": "Executing securities trading on behalf of clients",
+        "type4": "Providing professional advice on securities investments",
+        "type9": "Managing client investment portfolios"
+      }
+    },
+    "commitment": {
+      "title": "Our Commitment",
+      "description": "We commit to continuously enhancing compliance standards to ensure all business activities comply with regulatory requirements, providing safe, transparent, and professional investment services to our clients."
+    },
+    "cta": {
+      "title": "Learn More About Compliance",
+      "description": "For more information about our compliance policies and regulatory credentials, please contact us.",
+      "button": "Contact Us"
+    }
+  },
+  "strategy": {
+    "hero": {
+      "title": "Investment Strategy",
+      "subtitle": "Discovering the Next Generation of Industry Leaders, Achieving Optimal Balance Between Risk and Returns"
+    },
+    "philosophy": {
+      "title": "Investment Philosophy",
+      "description": "We believe that Asia is at the heart of reshaping the global capital structure. Aokai's investment strategy focuses on discovering the next generation of industry leaders and achieving optimal balance between risk and returns through structured approaches.",
+      "focus": "Forward-Thinking Investments",
+      "focusDescription": "Identifying market trends ahead of time, investing in future leaders",
+      "principles": {
+        "precision": "Precisely Identifying Investment Opportunities",
+        "balance": "Balancing Risks and Returns",
+        "foresight": "Forward-Thinking Market Insights"
+      }
+    },
+    "pillars": {
+      "title": "Main Strategic Directions",
+      "thematic": {
+        "title": "Theme-Oriented Investments",
+        "description": "Focusing on high-growth sectors, capturing structural opportunities within long-term trends.",
+        "areas": ["Artificial Intelligence", "Robotics", "Green Energy", "Digital Infrastructure", "Healthcare", "Next-Generation Consumption"]
+      },
+      "crossCycle": {
+        "title": "Cross-Cycle Allocation and Macro Hedging",
+        "description": "Utilizing macro data modeling and scenario analysis for dynamic asset allocation across cycles.",
+        "methods": ["Macro Data Modeling", "Scenario Analysis", "Dynamic Asset Allocation", "Derivatives Risk Hedging"]
+      },
+      "privateMarket": {
+        "title": "Private Markets and PIPE Opportunities",
+        "description": "Securing strategic investment entry points by participating in quality projects.",
+        "opportunities": ["Pre-IPO Investments", "PIPE Investments", "Growth Enterprise Private Placements", "Strategic Investment Opportunities"]
+      },
+      "riskFirst": {
+        "title": "Risk Control First, Long-Term Holding",
+        "description": "Prioritizing stability in investment strategies, combining research-driven approaches with risk control.",
+        "approaches": ["Bottom-Up Research Driven", "Top-Down Risk Control", "Concentrating on High-Conviction Stocks", "Pursuing Compound Growth"]
+      }
+    },
+    "process": {
+      "title": "Investment Process",
+      "description": "We follow a rigorous investment process to ensure each investment decision is thoroughly researched and analyzed.",
+      "steps": {
+        "research": "In-depth Research",
+        "analysis": "Risk Analysis",
+        "execution": "Strategy Execution",
+        "monitoring": "Continuous Monitoring"
+      },
+      "descriptions": {
+        "research": "Deeply analyzing industry trends and company fundamentals",
+        "analysis": "Comprehensively evaluating investment risks and return potentials",
+        "execution": "Precisely executing investment strategies and asset allocations",
+        "monitoring": "Continuously monitoring portfolio performance and making adjustments"
+      }
+    },
+    "quote": {
+      "text": "We do not chase after trends but foresee where the wind will blow three years ahead."
+    },
+    "cta": {
+      "title": "Learn About Our Investment Strategies",
+      "description": "Interested in learning more about our investment philosophy and strategy methods?",
+      "button": "Contact Us"
+    }
+  },
+  "responsibility": {
+    "hero": {
+      "title": "Social Responsibility",
+      "subtitle": "Embracing Social Responsibilities, Promoting Sustainable Development"
+    },
+    "philosophy": {
+      "title": "Corporate Social Responsibility Philosophy",
+      "description": "At Aokai, we firmly believe that asset management is not only about pursuing returns but also about fulfilling social responsibilities. As a licensed institution in Hong Kong, we are committed to integrating sustainable development concepts into our investment activities, guiding capital towards truly beneficial directions for society and the environment.",
+      "mission": "Mission of Sustainable Investment",
+      "missionDescription": "Integrating ESG principles into investment decisions to create long-term value",
+      "values": {
+        "sustainability": "Environmental Sustainability",
+        "community": "Community Engagement and Support",
+        "governance": "Transparent Governance Standards"
+      }
+    },
+    "commitments": {
+      "title": "Our Commitment to Responsibility",
+      "esg": {
+        "title": "ESG Integration",
+        "description": "We comprehensively evaluate environmental, social, and governance factors during due diligence, post-investment management, and exit processes, prioritizing high-ESG-rated investments."
+      },
+      "cleanTech": {
+        "title": "Supporting Clean Technology and Future Industries",
+        "description": "Aokai focuses on investing in new economy sectors to support the development and implementation of sustainable technologies across Asia.",
+        "sectors": ["Green Energy", "Smart Manufacturing", "Biomedicine", "Digital Inclusion"]
+      },
+      "community": {
+        "title": "Public Welfare Participation and Financial Education",
+        "description": "We support various community projects, injecting knowledge and resources into the community.",
+        "programs": ["Charitable Projects", "Youth Financial Education Programs", "Entrepreneur Incubation Projects", "Community Development Support"]
+      },
+      "governance": {
+        "title": "Corporate Governance and Transparency",
+        "description": "Aokai upholds the highest standards of governance to ensure the trust of clients and the public.",
+        "standards": ["KYC Customer Due Diligence", "Anti-Money Laundering Policies", "Conflict of Interest Management", "Transparency Reporting"]
+      }
+    },
+    "sdgs": {
+      "title": "Sustainable Development Goals",
+      "description": "Our investments and business activities align with the United Nations' Sustainable Development Goals, contributing to global sustainability.",
+      "goals": {
+        "climate": "Climate Action",
+        "education": "Quality Education",
+        "innovation": "Industry Innovation"
+      },
+      "descriptions": {
+        "climate": "Investing in clean energy and environmental protection technologies",
+        "education": "Supporting financial education and talent cultivation",
+        "innovation": "Promoting sustainable innovation and development"
+      }
+    },
+    "quote": {
+      "text": "We believe that capital is a responsibility, not a privilege."
+    },
+    "cta": {
+      "title": "Learn About Our ESG Practices",
+      "description": "Interested in learning more about our sustainable development philosophy and social responsibility practices?",
+      "button": "Contact Us"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us"
+    },
+    "company": {
+      "name": "Aokai Fund Management Group Asia Limited"
+    },
+    "form": {
+      "placeholders": {
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "message": "Message"
+      },
+      "submit": "Submit",
+      "submitting": "Submitting...",
+      "successMessage": "Your message has been successfully sent, and we will reply as soon as possible."
+    },
+    "office": {
+      "hk": {
+        "title": "Hong Kong Headquarters",
+        "address": {
+          "line1": "280 Gloucester Road, Causeway Bay",
+          "line2": "World Trade Centre, 37/F, Rooms 01-08"
+        }
+      }
+    },
+    "inquiry": {
+      "title": "Inquiry Hotline",
+      "phone": {
+        "main": "+852-2593 9602",
+        "mainNote": "Chinese and English",
+        "alt": "+852-2159 5008",
+        "altNote": "Japanese"
+      },
+      "email": "info@arcadiafund.asia",
+      "fax": "+852-3575 1312",
+      "faxNote": "Fax Line"
+    },
+    "hours": {
+      "title": "Business Hours",
+      "weekdays": "Monday to Friday",
+      "weekdaysTime": "9:00 AM - 6:00 PM",
+      "saturday": "Saturday",
+      "saturdayTime": "9:00 AM - 1:00 PM",
+      "sunday": "Sunday",
+      "sundayTime": "Closed"
+    },
+    "regulatory": {
+      "title": "Regulatory Credentials",
+      "sfc": "Securities and Futures Commission License",
+      "sfcNumber": "BTX937",
+      "lei": "Legal Entity Identifier",
+      "leiNumber": "984500A557HF7695BC85"
+    },
+    "map": {
+      "placeholder": "Map Location (To be Implemented)"
+    }
+  },
+  "footer": {
+    "links": {
+      "disclaimer": "Disclaimer",
+      "privacy": "Privacy Policy",
+      "contact": "Contact Us"
+    },
+    "copyright": {
+      "text": "© 2025 Aokai Fund Management Group Asia Limited All Rights Reserved"
+    },
+    "license": {
+      "insurance": "Licensed Insurance Intermediary Number: FB1152",
+      "sfc": "Securities and Futures Commission License Number: BTX937"
+    },
+    "backToTop": "Back to Top"
+  }
+}
