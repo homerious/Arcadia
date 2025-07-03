@@ -2,6 +2,7 @@
 'use client'
 
 import { getMessages } from '@/lib/i18n'
+import Link from 'next/link'
 
 export default function Footer({ locale }) {
   const messages = getMessages(locale)
@@ -21,24 +22,24 @@ export default function Footer({ locale }) {
         <div className="flex flex-col lg:flex-row justify-between items-center gap-6 lg:gap-0">
           {/* Left Side - Navigation Links */}
           <div className="flex flex-col sm:flex-row gap-4 sm:gap-8 text-white text-sm order-2 lg:order-1">
-            <a
+            <Link
               href="/legal/disclaimer"
               className="hover:underline transition-all duration-200 text-center sm:text-left"
             >
               {footerMsg.links.disclaimer}
-            </a>
-            <a
+            </Link>
+            <Link
               href="/legal/privacy"
               className="hover:underline transition-all duration-200 text-center sm:text-left"
             >
               {footerMsg.links.privacy}
-            </a>
-            <a
+            </Link>
+            <Link
               href="/contact"
               className="hover:underline transition-all duration-200 text-center sm:text-left"
             >
               {footerMsg.links.contact}
-            </a>
+            </Link>
           </div>
 
           {/* Right Side - Copyright & License Info */}
