@@ -44,7 +44,7 @@ export default function Contact({ locale }) {
         {/* 背景图片 */}
         <div className="absolute inset-0">
           <Image
-            src="/images/contact-hero-bg.jpg"
+            src="/images/contact-hero.jpg"
             alt="Contact Us Background"
             fill
             className="object-cover"
